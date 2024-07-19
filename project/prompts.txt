@@ -1,0 +1,7 @@
+rename file working.js to something.js
+
+create a file working.js
+
+delete a file working.js
+
+add to the file working.js this content: seth is a hot boy

@@ -1,0 +1,26 @@
+what is an event 
+
+create you own custom event
+
+what is a buffer
+
+create a buffer
+
+what is a file 
+
+create a file
+
+Delete a file
+
+Rename a file 
+
+Add to a file
+
+what is stream
+
+create a writable stream
+
+create a readable stream
+
+Create an app that reads and write a file to another destination - create the file automatically 
+
